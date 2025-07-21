@@ -11,6 +11,9 @@ header {
   .title {
     color: #264653;
     margin-bottom: 4px;
+    background-color: #f1f0e9;
+    padding: 4px 20px;
+    border-radius: 2px;
   }
   ul li {
     list-style: none;
