@@ -66,6 +66,9 @@ nav {
     margin-bottom: 2px;
   }
 }
+.text {
+  font-size: 12px;
+}
 body {
   max-width: 800px;
   margin: 40px auto;
