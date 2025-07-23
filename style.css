@@ -8,6 +8,10 @@
   align-items: center;
   gap: 4px;
 }
+
+.text_col {
+  color: rgb(79, 79, 150);
+}
 header {
   p {
     font-size: 12px;
